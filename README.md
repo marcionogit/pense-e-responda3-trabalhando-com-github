@@ -3,4 +3,4 @@
   <p>Em seu computador, crie uma pasta para o projeto e adicione um arquivo chamado index.html com o conteúdo HTML básico fornecido.</p>
   <p>Crie uma pasta images dentro do seu projeto, procure por uma imagem de sua escolha (respeitando direitos autorais), salve nesta pasta e adicione uma referência à imagem no seu arquivo index.html</p>
   
- # [Visualizar projeto](https://github.com/marcionogit/pense-e-responda3-trabalhando-com-github/)
+ # [Visualizar projeto](https://marcionogit.github.io/pense-e-responda3-trabalhando-com-github/)
